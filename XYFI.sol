@@ -32,7 +32,7 @@ abstract contract Context {
         return msg.data;
     }
 }
-
+ 
 
 /**
  * @dev Interface of the ERC20 standard as defined in the EIP.
